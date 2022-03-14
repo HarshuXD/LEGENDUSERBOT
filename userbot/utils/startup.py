@@ -63,7 +63,7 @@ async def startupmessage():
                 BOTLOG_CHATID,
                 "https://telegra.ph/file/294b4dbdb74334fb0a8c1.jpg",
                 caption="**Your LegendBot has been started successfully.**",
-                buttons=[(Button.url("Support", "https://t.me/LegendBot_OP"),)],
+                buttons=[(Button.url("Boss🚬", "https://t.me/Harshu_xD"),)],
             )
     except Exception as e:
         LOGS.error(e)
