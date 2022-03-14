@@ -108,8 +108,7 @@ async def help(event):
             message=f"Hey Sir It's Me {bot_id}, Your Assistant! How Can I Help U?",
             buttons=[
                 [
-                    Button.url("👨‍🏫 Support ", "https://t.me/LegendBot_OP"),
-                    Button.url("🤖 Updates ", "https://t.me/LegendBot_AI"),
+                    Button.url("Made By", "https://t.me/HarshXD"),
                 ],
                 [
                     custom.Button.inline("👤 Users", data="users"),
